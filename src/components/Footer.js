@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer className="footer">
-      <p> Created by Ezekiel Narvasa </p>
+      <p> Created by Allan Makulet </p>
     </footer>
   );
 }
